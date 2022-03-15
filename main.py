@@ -106,6 +106,10 @@ def isfloat(v):
 		pass
 	return False
 
+dpi = 96
+fig = plt.figure(figsize=(1920/dpi, 1080/dpi), dpi=dpi)
+ax = plt.subplot(111)
+
 for name, years in data.items():
 	# Only plot constants for which data is available for all years
 	if len(years) == len(allyears) and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
@@ -123,7 +127,7 @@ for name, years in data.items():
 			ys.append(log(float(years[0][2])/float(year[2]), 10))
 		
 		# Plot the constants' line
-		plt.plot(xs, ys, label=name)
+		ax.plot(xs, ys, label=name)
 		
 		# Additionally, print some information
 		decimaldigits = log(float(years[0][2])/float(years[-1][2]), 10)
@@ -135,6 +139,8 @@ for name, years in data.items():
 # Finish, save and show the plot
 plt.title(f"number of decimal digits improved compared to first year ({firstyear}-{lastyear})")
 plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+box = ax.get_position()
+ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
 #plt.tight_layout()
 plt.savefig("plot.png")
 plt.show()
