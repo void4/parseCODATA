@@ -6,12 +6,12 @@ import matplotlib.pyplot as plt
 
 paths = sorted(glob("CODATA/allascii_*.txt"))
 
-years = [int(path.split(".")[0].split("_")[-1]) for path in paths]
+allyears = [int(path.split(".")[0].split("_")[-1]) for path in paths]
 
-print(years)
+print(allyears)
 
-lastyear = max(years)
-firstyear = min(years)
+lastyear = max(allyears)
+firstyear = min(allyears)
 rng = lastyear - firstyear
 
 def cleanValue(value):
@@ -23,14 +23,20 @@ def splitUncertainty(value):
 
 	value = cleanValue(value)
 
+	# Remove uncertainty parentheses to obtain the pure average value
 	purevalue = re.sub(r"\(.*?\)", "", value)
+	
+	# Match the digits within parentheses
 	rematch = re.search(r"\((.*?)\)", value)
 
+	# Set pureuncertainty to these digits, or if there are none, to None
 	pureuncertainty = rematch.group(1) if rematch else None
 	
 	if pureuncertainty:
+		# Reconstruct the uncertainty value by inserting the right number of decimal zeros (assuming uncertainty < 1)
 		pureuncertainty = "0." + "0" * (value.index("(") - value.index(".") - 1 - len(pureuncertainty)) + pureuncertainty
 		
+		# Also append the exponent notation of the purevalue to the uncertainty if there is any
 		if "e" in purevalue:
 			pureuncertainty += purevalue[purevalue.index("e"):]
 
@@ -42,14 +48,17 @@ data = defaultdict(list)
 # Iterate over all files and collect year-tagged datapoints in a list for each constant
 for path in paths:
 
+	# Extract the year as an integer
 	year = int(path.split(".")[0].split("_")[-1])
 
+	# Read all lines from the CODATA file into a list
 	with open(path) as f:
 		lines = f.read().splitlines()
 	
-	rows = []
 	start = False
 	for line in lines:
+		
+		# Ignore all lines in the file until the dashes, after which the constants follow
 		if line.startswith("---"):
 			start = True
 			continue
@@ -57,18 +66,24 @@ for path in paths:
 		if not start:
 			continue
 		
+		# Split the line between 2 or more whitespaces
 		line = re.split(r"\s{2,}", line.strip())
 		
+		# Depending on the format of the CODATA file and available data each line may have a different number of columns
 		if len(line) == 2:
+			# Old format containing the uncertainty as parentheses notation in the value, no unit (dimensionless)
 			name, value = line
 			unit = None
 			value, uncertainty = splitUncertainty(value)
 		elif len(line) == 3:
+			# Old format containing the uncertainty as parentheses notation in the value
 			name, value, unit = line
 			value, uncertainty = splitUncertainty(value)
 		elif len(line) == 4:
+			# New format (2010+) containing the uncertainty in a separate column
 			name, value, uncertainty, unit = line
 		else:
+			# Shouldn't occur, doesn't currently
 			print(line)
 		
 		value = cleanValue(value)
@@ -92,7 +107,8 @@ def isfloat(v):
 	return False
 
 for name, years in data.items():
-	if len(years) == 6 and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
+	# Only plot constants for which data is available for all years
+	if len(years) == len(allyears) and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
 		
 		# Skip some redundant or uninteresting constants
 		if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
