@@ -119,6 +119,7 @@ for name, years in data.items():
 		ys = []
 		for year in years:
 			xs.append(int(year[0]))
+			# Divide the first years' uncertainty by each years uncertainty and take the base 10 logarithm to get the number of digits of improvement
 			ys.append(log(float(years[0][2])/float(year[2]), 10))
 		
 		# Plot the constants' line
