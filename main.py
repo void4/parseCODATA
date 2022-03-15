@@ -1,7 +1,10 @@
+from math import log
+import json
 from glob import glob
 import re
 from collections import defaultdict, Counter
-from math import log
+
+
 import matplotlib.pyplot as plt
 
 paths = sorted(glob("CODATA/allascii_*.txt"))
@@ -42,7 +45,7 @@ def splitUncertainty(value):
 
 	return purevalue, pureuncertainty
 
-# {<name:str>: [<year:str>, <value:str>, <uncertainty:str/None>, <unit:str/None>]}
+# {<name:str>: [{year: str, value:str, uncertainty:str/None, unit:str/None}, ...]}
 data = defaultdict(list)
 
 # Iterate over all files and collect year-tagged datapoints in a list for each constant
@@ -90,7 +93,10 @@ for path in paths:
 		if uncertainty:
 			uncertainty = cleanValue(uncertainty)
 		
-		data[name].append([str(year), value, uncertainty, unit])
+		data[name].append({"year":str(year), "value": value, "uncertainty": uncertainty, "unit": unit})
+
+with open("CODATA.json", "w+") as f:
+	f.write(json.dumps(data, indent=4))
 
 testkey = "electron mass"
 print(testkey)
@@ -112,7 +118,7 @@ ax = plt.subplot(111)
 
 for name, years in data.items():
 	# Only plot constants for which data is available for all years
-	if len(years) == len(allyears) and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
+	if len(years) == len(allyears) and all([year["uncertainty"] is not None and isfloat(year["uncertainty"]) and float(year["uncertainty"]) != 0 for year in years]):
 		
 		# Skip some redundant or uninteresting constants
 		#if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
@@ -122,15 +128,15 @@ for name, years in data.items():
 		xs = []
 		ys = []
 		for year in years:
-			xs.append(int(year[0]))
+			xs.append(int(year["year"]))
 			# Divide the first years' uncertainty by each years uncertainty and take the base 10 logarithm to get the number of digits of improvement
-			ys.append(log(float(years[0][2])/float(year[2]), 10))
+			ys.append(log(float(years[0]["uncertainty"])/float(year["uncertainty"]), 10))
 		
 		# Plot the constants' line
 		ax.plot(xs, ys, label=name)
 		
 		# Additionally, print some information
-		decimaldigits = log(float(years[0][2])/float(years[-1][2]), 10)
+		decimaldigits = log(float(years[0]["uncertainty"])/float(years[-1]["uncertainty"]), 10)
 		if decimaldigits == 0:
 			continue
 		print(name)
