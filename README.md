@@ -10,4 +10,12 @@ Which seem to have two different formats, until -2006 with parenthesis notation 
 
 ![plot](plot.png)
 
+## Install dependencies
+
+`pip install -r requirements.txt`
+
+## Run
+
+`python main.py`
+
 This is just a quick hack, do not rely on it for accuracy before verifying yourself first!
