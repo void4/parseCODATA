@@ -79,9 +79,13 @@ for path in paths:
 			unit = None
 			value, uncertainty = splitUncertainty(value)
 		elif len(line) == 3:
-			# Old format containing the uncertainty as parentheses notation in the value
-			name, value, unit = line
-			value, uncertainty = splitUncertainty(value)
+			if "(" in line[1]:
+				# Old format containing the uncertainty as parentheses notation in the value
+				name, value, unit = line
+				value, uncertainty = splitUncertainty(value)
+			else:
+				name, value, uncertainty = line
+				unit = None
 		elif len(line) == 4:
 			# New format (2010+) containing the uncertainty in a separate column
 			name, value, uncertainty, unit = line

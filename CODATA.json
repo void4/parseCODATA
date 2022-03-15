@@ -211,20 +211,20 @@
         {
             "year": "2010",
             "value": "7294.2995361",
-            "uncertainty": null,
-            "unit": "0.000 0029"
+            "uncertainty": "0.0000029",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "7294.29954136",
-            "uncertainty": null,
-            "unit": "0.000 000 24"
+            "uncertainty": "0.00000024",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "7294.29954142",
-            "uncertainty": null,
-            "unit": "0.000 000 24"
+            "uncertainty": "0.00000024",
+            "unit": null
         }
     ],
     "alpha particle-proton mass ratio": [
@@ -249,20 +249,20 @@
         {
             "year": "2010",
             "value": "3.97259968933",
-            "uncertainty": null,
-            "unit": "0.000 000 000 36"
+            "uncertainty": "0.00000000036",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "3.97259968907",
-            "uncertainty": null,
-            "unit": "0.000 000 000 36"
+            "uncertainty": "0.00000000036",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "3.97259969009",
-            "uncertainty": null,
-            "unit": "0.000 000 000 22"
+            "uncertainty": "0.00000000022",
+            "unit": null
         }
     ],
     "Angstrom star": [
@@ -1253,20 +1253,20 @@
         {
             "year": "1998",
             "value": "1.112650056e-10",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "1.112650056e-10",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "1.112650056e-10",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -1773,20 +1773,20 @@
         {
             "year": "1998",
             "value": "376.730313461",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "376.730313461",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "376.730313461",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2010",
@@ -1957,20 +1957,20 @@
         {
             "year": "1998",
             "value": "483597900000000.0",
-            "uncertainty": null,
-            "unit": "GHz V^{-1}"
+            "uncertainty": "GHzV^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "483597.9e9",
-            "uncertainty": null,
-            "unit": "Hz V^{-1}"
+            "uncertainty": "HzV^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "483597.9e9",
-            "uncertainty": null,
-            "unit": "Hz V^{-1}"
+            "uncertainty": "HzV^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -1995,20 +1995,20 @@
         {
             "year": "1998",
             "value": "25812.807",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "25812.807",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "25812.807",
-            "uncertainty": null,
-            "unit": "Ohm"
+            "uncertainty": "Ohm",
+            "unit": null
         },
         {
             "year": "2010",
@@ -2353,20 +2353,20 @@
         {
             "year": "2010",
             "value": "3670.4829652",
-            "uncertainty": null,
-            "unit": "0.000 0015"
+            "uncertainty": "0.0000015",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "3670.48296785",
-            "uncertainty": null,
-            "unit": "0.000 000 13"
+            "uncertainty": "0.00000013",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "3670.48296788",
-            "uncertainty": null,
-            "unit": "0.000 000 13"
+            "uncertainty": "0.00000013",
+            "unit": null
         }
     ],
     "deuteron-neutron magnetic moment ratio": [
@@ -2431,40 +2431,40 @@
         {
             "year": "2010",
             "value": "1.99900750097",
-            "uncertainty": null,
-            "unit": "0.000 000 000 18"
+            "uncertainty": "0.00000000018",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.99900750087",
-            "uncertainty": null,
-            "unit": "0.000 000 000 19"
+            "uncertainty": "0.00000000019",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.99900750139",
-            "uncertainty": null,
-            "unit": "0.000 000 000 11"
+            "uncertainty": "0.00000000011",
+            "unit": null
         }
     ],
     "electric constant": [
         {
             "year": "1998",
             "value": "8.854187817e-12",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "8.854187817e-12",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "8.854187817e-12",
-            "uncertainty": null,
-            "unit": "F m^{-1}"
+            "uncertainty": "Fm^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -2539,20 +2539,20 @@
         {
             "year": "2010",
             "value": "-2.00231930436153",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 53"
+            "uncertainty": "0.00000000000053",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-2.00231930436182",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 52"
+            "uncertainty": "0.00000000000052",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-2.00231930436256",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 35"
+            "uncertainty": "0.00000000000035",
+            "unit": null
         }
     ],
     "electron gyromagnetic ratio": [
@@ -2887,20 +2887,20 @@
         {
             "year": "2010",
             "value": "1.37093355578e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 55 e-4"
+            "uncertainty": "0.00000000055e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.370933554798e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 045 e-4"
+            "uncertainty": "0.000000000045e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.370933554787e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 045 e-4"
+            "uncertainty": "0.000000000045e-4",
+            "unit": null
         }
     ],
     "electron to shielded helion magnetic moment ratio": [
@@ -3289,20 +3289,20 @@
         {
             "year": "2010",
             "value": "2.7244371095e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0011 e-4"
+            "uncertainty": "0.0000000011e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.724437107484e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 096 e-4"
+            "uncertainty": "0.000000000096e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.724437107462e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 096 e-4"
+            "uncertainty": "0.000000000096e-4",
+            "unit": null
         }
     ],
     "electron-muon magnetic moment ratio": [
@@ -3347,20 +3347,20 @@
         {
             "year": "2010",
             "value": "4.83633166e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 12 e-3"
+            "uncertainty": "0.00000012e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "4.83633170e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 11 e-3"
+            "uncertainty": "0.00000011e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "4.83633169e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 11 e-3"
+            "uncertainty": "0.00000011e-3",
+            "unit": null
         }
     ],
     "electron-neutron magnetic moment ratio": [
@@ -3405,20 +3405,20 @@
         {
             "year": "2010",
             "value": "5.4386734461e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0032 e-4"
+            "uncertainty": "0.0000000032e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5.4386734428e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0027 e-4"
+            "uncertainty": "0.0000000027e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5.4386734424e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0026 e-4"
+            "uncertainty": "0.0000000026e-4",
+            "unit": null
         }
     ],
     "electron-proton magnetic moment ratio": [
@@ -3463,20 +3463,20 @@
         {
             "year": "2010",
             "value": "5.4461702178e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0022 e-4"
+            "uncertainty": "0.0000000022e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5.44617021352e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 52 e-4"
+            "uncertainty": "0.00000000052e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5.44617021487e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 33 e-4"
+            "uncertainty": "0.00000000033e-4",
+            "unit": null
         }
     ],
     "electron-tau mass ratio": [
@@ -3501,20 +3501,20 @@
         {
             "year": "2010",
             "value": "2.87592e-4",
-            "uncertainty": null,
-            "unit": "0.000 26 e-4"
+            "uncertainty": "0.00026e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.87592e-4",
-            "uncertainty": null,
-            "unit": "0.000 26 e-4"
+            "uncertainty": "0.00026e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.87585e-4",
-            "uncertainty": null,
-            "unit": "0.000 19 e-4"
+            "uncertainty": "0.00019e-4",
+            "unit": null
         }
     ],
     "elementary charge over h": [
@@ -3679,20 +3679,20 @@
         {
             "year": "2010",
             "value": "7.2973525698e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0024 e-3"
+            "uncertainty": "0.0000000024e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "7.2973525664e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0017 e-3"
+            "uncertainty": "0.0000000017e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "7.2973525693e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0011 e-3"
+            "uncertainty": "0.0000000011e-3",
+            "unit": null
         }
     ],
     "first radiation constant": [
@@ -4307,20 +4307,20 @@
         {
             "year": "2010",
             "value": "5495.8852754",
-            "uncertainty": null,
-            "unit": "0.000 0050"
+            "uncertainty": "0.0000050",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5495.88527922",
-            "uncertainty": null,
-            "unit": "0.000 000 27"
+            "uncertainty": "0.00000027",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5495.88528007",
-            "uncertainty": null,
-            "unit": "0.000 000 24"
+            "uncertainty": "0.00000024",
+            "unit": null
         }
     ],
     "helion-proton mass ratio": [
@@ -4345,20 +4345,20 @@
         {
             "year": "2010",
             "value": "2.9931526707",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.99315267046",
-            "uncertainty": null,
-            "unit": "0.000 000 000 29"
+            "uncertainty": "0.00000000029",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.99315267167",
-            "uncertainty": null,
-            "unit": "0.000 000 000 13"
+            "uncertainty": "0.00000000013",
+            "unit": null
         }
     ],
     "hertz-atomic mass unit relationship": [
@@ -4479,20 +4479,20 @@
         {
             "year": "1998",
             "value": "3.335640952e-9",
-            "uncertainty": null,
-            "unit": "m^{-1}"
+            "uncertainty": "m^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "3.335640951e-9",
-            "uncertainty": null,
-            "unit": "m^{-1}"
+            "uncertainty": "m^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "3.335640951e-9",
-            "uncertainty": null,
-            "unit": "m^{-1}"
+            "uncertainty": "m^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -4649,20 +4649,20 @@
         {
             "year": "2010",
             "value": "137.035999074",
-            "uncertainty": null,
-            "unit": "0.000 000 044"
+            "uncertainty": "0.000000044",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "137.035999139",
-            "uncertainty": null,
-            "unit": "0.000 000 031"
+            "uncertainty": "0.000000031",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "137.035999084",
-            "uncertainty": null,
-            "unit": "0.000 000 021"
+            "uncertainty": "0.000000021",
+            "unit": null
         }
     ],
     "inverse meter-atomic mass unit relationship": [
@@ -4783,20 +4783,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "Hz"
+            "uncertainty": "Hz",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "Hz"
+            "uncertainty": "Hz",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "Hz"
+            "uncertainty": "Hz",
+            "unit": null
         },
         {
             "year": "2010",
@@ -5239,20 +5239,20 @@
         {
             "year": "1998",
             "value": "1.112650056e-17",
-            "uncertainty": null,
-            "unit": "kg"
+            "uncertainty": "kg",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "1.112650056e-17",
-            "uncertainty": null,
-            "unit": "kg"
+            "uncertainty": "kg",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "1.112650056e-17",
-            "uncertainty": null,
-            "unit": "kg"
+            "uncertainty": "kg",
+            "unit": null
         },
         {
             "year": "2010",
@@ -5733,20 +5733,20 @@
         {
             "year": "1998",
             "value": "8.987551787e16",
-            "uncertainty": null,
-            "unit": "J"
+            "uncertainty": "J",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "8.987551787e16",
-            "uncertainty": null,
-            "unit": "J"
+            "uncertainty": "J",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "8.987551787e16",
-            "uncertainty": null,
-            "unit": "J"
+            "uncertainty": "J",
+            "unit": null
         },
         {
             "year": "2010",
@@ -5905,20 +5905,20 @@
         {
             "year": "1998",
             "value": "1256637.061435917",
-            "uncertainty": null,
-            "unit": "N A^{-2}"
+            "uncertainty": "NA^{-2}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "12.566370614e-7",
-            "uncertainty": null,
-            "unit": "N A^{-2}"
+            "uncertainty": "NA^{-2}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "12.566370614e-7",
-            "uncertainty": null,
-            "unit": "N A^{-2}"
+            "uncertainty": "NA^{-2}",
+            "unit": null
         }
     ],
     "magnetic flux quantum": [
@@ -6085,20 +6085,20 @@
         {
             "year": "1998",
             "value": "1e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "1e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "1e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -6123,20 +6123,20 @@
         {
             "year": "1998",
             "value": "12e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "12e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "12e-3",
-            "uncertainty": null,
-            "unit": "kg mol^{-1}"
+            "uncertainty": "kgmol^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -6363,20 +6363,20 @@
         {
             "year": "2010",
             "value": "-2.0023318418",
-            "uncertainty": null,
-            "unit": "0.000 000 0013"
+            "uncertainty": "0.0000000013",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-2.0023318418",
-            "uncertainty": null,
-            "unit": "0.000 000 0013"
+            "uncertainty": "0.0000000013",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-2.0023318418",
-            "uncertainty": null,
-            "unit": "0.000 000 0013"
+            "uncertainty": "0.0000000013",
+            "unit": null
         }
     ],
     "muon magnetic moment": [
@@ -6671,20 +6671,20 @@
         {
             "year": "2010",
             "value": "206.7682843",
-            "uncertainty": null,
-            "unit": "0.000 0052"
+            "uncertainty": "0.0000052",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "206.7682826",
-            "uncertainty": null,
-            "unit": "0.000 0046"
+            "uncertainty": "0.0000046",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "206.7682830",
-            "uncertainty": null,
-            "unit": "0.000 0046"
+            "uncertainty": "0.0000046",
+            "unit": null
         }
     ],
     "muon-neutron mass ratio": [
@@ -6709,20 +6709,20 @@
         {
             "year": "2010",
             "value": "0.1124545177",
-            "uncertainty": null,
-            "unit": "0.000 000 0028"
+            "uncertainty": "0.0000000028",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.1124545167",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.1124545170",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         }
     ],
     "muon-proton magnetic moment ratio": [
@@ -6767,20 +6767,20 @@
         {
             "year": "2010",
             "value": "0.1126095272",
-            "uncertainty": null,
-            "unit": "0.000 000 0028"
+            "uncertainty": "0.0000000028",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.1126095262",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.1126095264",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         }
     ],
     "muon-tau mass ratio": [
@@ -6805,20 +6805,20 @@
         {
             "year": "2010",
             "value": "5.94649e-2",
-            "uncertainty": null,
-            "unit": "0.000 54 e-2"
+            "uncertainty": "0.00054e-2",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5.94649e-2",
-            "uncertainty": null,
-            "unit": "0.000 54 e-2"
+            "uncertainty": "0.00054e-2",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5.94635e-2",
-            "uncertainty": null,
-            "unit": "0.000 40 e-2"
+            "uncertainty": "0.00040e-2",
+            "unit": null
         }
     ],
     "natural unit of action": [
@@ -7143,20 +7143,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -7269,20 +7269,20 @@
         {
             "year": "2010",
             "value": "-3.82608545",
-            "uncertainty": null,
-            "unit": "0.000 000 90"
+            "uncertainty": "0.00000090",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-3.82608545",
-            "uncertainty": null,
-            "unit": "0.000 000 90"
+            "uncertainty": "0.00000090",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-3.82608545",
-            "uncertainty": null,
-            "unit": "0.000 000 90"
+            "uncertainty": "0.00000090",
+            "unit": null
         }
     ],
     "neutron gyromagnetic ratio": [
@@ -7637,20 +7637,20 @@
         {
             "year": "2010",
             "value": "1838.6836605",
-            "uncertainty": null,
-            "unit": "0.000 0011"
+            "uncertainty": "0.0000011",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1838.68366158",
-            "uncertainty": null,
-            "unit": "0.000 000 90"
+            "uncertainty": "0.00000090",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1838.68366173",
-            "uncertainty": null,
-            "unit": "0.000 000 89"
+            "uncertainty": "0.00000089",
+            "unit": null
         }
     ],
     "neutron-muon mass ratio": [
@@ -7675,20 +7675,20 @@
         {
             "year": "2010",
             "value": "8.89248400",
-            "uncertainty": null,
-            "unit": "0.000 000 22"
+            "uncertainty": "0.00000022",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "8.89248408",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "8.89248406",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         }
     ],
     "neutron-proton magnetic moment ratio": [
@@ -7733,20 +7733,20 @@
         {
             "year": "2010",
             "value": "1.00137841917",
-            "uncertainty": null,
-            "unit": "0.000 000 000 45"
+            "uncertainty": "0.00000000045",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.00137841898",
-            "uncertainty": null,
-            "unit": "0.000 000 000 51"
+            "uncertainty": "0.00000000051",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.00137841931",
-            "uncertainty": null,
-            "unit": "0.000 000 000 49"
+            "uncertainty": "0.00000000049",
+            "unit": null
         }
     ],
     "neutron-tau mass ratio": [
@@ -7771,20 +7771,20 @@
         {
             "year": "2010",
             "value": "0.528790",
-            "uncertainty": null,
-            "unit": "0.000 048"
+            "uncertainty": "0.000048",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.528790",
-            "uncertainty": null,
-            "unit": "0.000 048"
+            "uncertainty": "0.000048",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.528779",
-            "uncertainty": null,
-            "unit": "0.000 036"
+            "uncertainty": "0.000036",
+            "unit": null
         }
     ],
     "Newtonian constant of gravitation": [
@@ -8425,20 +8425,20 @@
         {
             "year": "2010",
             "value": "5.585694713",
-            "uncertainty": null,
-            "unit": "0.000 000 046"
+            "uncertainty": "0.000000046",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5.585694702",
-            "uncertainty": null,
-            "unit": "0.000 000 017"
+            "uncertainty": "0.000000017",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5.5856946893",
-            "uncertainty": null,
-            "unit": "0.000 000 0016"
+            "uncertainty": "0.0000000016",
+            "unit": null
         }
     ],
     "proton gyromagnetic ratio": [
@@ -8773,20 +8773,20 @@
         {
             "year": "2010",
             "value": "1836.15267245",
-            "uncertainty": null,
-            "unit": "0.000 000 75"
+            "uncertainty": "0.00000075",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1836.15267389",
-            "uncertainty": null,
-            "unit": "0.000 000 17"
+            "uncertainty": "0.00000017",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1836.15267343",
-            "uncertainty": null,
-            "unit": "0.000 000 11"
+            "uncertainty": "0.00000011",
+            "unit": null
         }
     ],
     "proton-muon mass ratio": [
@@ -8811,20 +8811,20 @@
         {
             "year": "2010",
             "value": "8.88024331",
-            "uncertainty": null,
-            "unit": "0.000 000 22"
+            "uncertainty": "0.00000022",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "8.88024338",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "8.88024337",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         }
     ],
     "proton-neutron magnetic moment ratio": [
@@ -8869,20 +8869,20 @@
         {
             "year": "2010",
             "value": "0.99862347826",
-            "uncertainty": null,
-            "unit": "0.000 000 000 45"
+            "uncertainty": "0.00000000045",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.99862347844",
-            "uncertainty": null,
-            "unit": "0.000 000 000 51"
+            "uncertainty": "0.00000000051",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.99862347812",
-            "uncertainty": null,
-            "unit": "0.000 000 000 49"
+            "uncertainty": "0.00000000049",
+            "unit": null
         }
     ],
     "proton-tau mass ratio": [
@@ -8907,20 +8907,20 @@
         {
             "year": "2010",
             "value": "0.528063",
-            "uncertainty": null,
-            "unit": "0.000 048"
+            "uncertainty": "0.000048",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.528063",
-            "uncertainty": null,
-            "unit": "0.000 048"
+            "uncertainty": "0.000048",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.528051",
-            "uncertainty": null,
-            "unit": "0.000 036"
+            "uncertainty": "0.000036",
+            "unit": null
         }
     ],
     "quantum of circulation": [
@@ -9473,20 +9473,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": null,
-            "unit": "m s^{-1}"
+            "uncertainty": "ms^{-1}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -9511,20 +9511,20 @@
         {
             "year": "1998",
             "value": "9.80665",
-            "uncertainty": null,
-            "unit": "m s^{-2}"
+            "uncertainty": "ms^{-2}",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "9.80665",
-            "uncertainty": null,
-            "unit": "m s^{-2}"
+            "uncertainty": "ms^{-2}",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "9.80665",
-            "uncertainty": null,
-            "unit": "m s^{-2}"
+            "uncertainty": "ms^{-2}",
+            "unit": null
         },
         {
             "year": "2010",
@@ -9549,20 +9549,20 @@
         {
             "year": "1998",
             "value": "101325",
-            "uncertainty": null,
-            "unit": "Pa"
+            "uncertainty": "Pa",
+            "unit": null
         },
         {
             "year": "2002",
             "value": "101325",
-            "uncertainty": null,
-            "unit": "Pa"
+            "uncertainty": "Pa",
+            "unit": null
         },
         {
             "year": "2006",
             "value": "101325",
-            "uncertainty": null,
-            "unit": "Pa"
+            "uncertainty": "Pa",
+            "unit": null
         },
         {
             "year": "2010",
@@ -9891,20 +9891,20 @@
         {
             "year": "2010",
             "value": "3477.15",
-            "uncertainty": null,
-            "unit": "0.31"
+            "uncertainty": "0.31",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "3477.15",
-            "uncertainty": null,
-            "unit": "0.31"
+            "uncertainty": "0.31",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "3477.23",
-            "uncertainty": null,
-            "unit": "0.23"
+            "uncertainty": "0.23",
+            "unit": null
         }
     ],
     "tau-muon mass ratio": [
@@ -9929,20 +9929,20 @@
         {
             "year": "2010",
             "value": "16.8167",
-            "uncertainty": null,
-            "unit": "0.0015"
+            "uncertainty": "0.0015",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "16.8167",
-            "uncertainty": null,
-            "unit": "0.0015"
+            "uncertainty": "0.0015",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "16.8170",
-            "uncertainty": null,
-            "unit": "0.0011"
+            "uncertainty": "0.0011",
+            "unit": null
         }
     ],
     "tau-neutron mass ratio": [
@@ -9967,20 +9967,20 @@
         {
             "year": "2010",
             "value": "1.89111",
-            "uncertainty": null,
-            "unit": "0.000 17"
+            "uncertainty": "0.00017",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.89111",
-            "uncertainty": null,
-            "unit": "0.000 17"
+            "uncertainty": "0.00017",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.89115",
-            "uncertainty": null,
-            "unit": "0.000 13"
+            "uncertainty": "0.00013",
+            "unit": null
         }
     ],
     "tau-proton mass ratio": [
@@ -10005,20 +10005,20 @@
         {
             "year": "2010",
             "value": "1.89372",
-            "uncertainty": null,
-            "unit": "0.000 17"
+            "uncertainty": "0.00017",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.89372",
-            "uncertainty": null,
-            "unit": "0.000 17"
+            "uncertainty": "0.00017",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.89376",
-            "uncertainty": null,
-            "unit": "0.000 13"
+            "uncertainty": "0.00013",
+            "unit": null
         }
     ],
     "Thomson cross section": [
@@ -10157,20 +10157,20 @@
         {
             "year": "2010",
             "value": "0.2223",
-            "uncertainty": null,
-            "unit": "0.0021"
+            "uncertainty": "0.0021",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.2223",
-            "uncertainty": null,
-            "unit": "0.0021"
+            "uncertainty": "0.0021",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.22290",
-            "uncertainty": null,
-            "unit": "0.000 30"
+            "uncertainty": "0.00030",
+            "unit": null
         }
     ],
     "Wien displacement law constant": [
@@ -10397,20 +10397,20 @@
         {
             "year": "2010",
             "value": "0.8574382308",
-            "uncertainty": null,
-            "unit": "0.000 000 0072"
+            "uncertainty": "0.0000000072",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.8574382311",
-            "uncertainty": null,
-            "unit": "0.000 000 0048"
+            "uncertainty": "0.0000000048",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.8574382338",
-            "uncertainty": null,
-            "unit": "0.000 000 0022"
+            "uncertainty": "0.0000000022",
+            "unit": null
         }
     ],
     "Planck mass energy equivalent in GeV": [
@@ -10449,20 +10449,20 @@
         {
             "year": "2010",
             "value": "5.957924896",
-            "uncertainty": null,
-            "unit": "0.000 000 076"
+            "uncertainty": "0.000000076",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5.957924920",
-            "uncertainty": null,
-            "unit": "0.000 000 028"
+            "uncertainty": "0.000000028",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5.957924931",
-            "uncertainty": null,
-            "unit": "0.000 000 012"
+            "uncertainty": "0.000000012",
+            "unit": null
         }
     ],
     "triton magnetic moment": [
@@ -10645,20 +10645,20 @@
         {
             "year": "2010",
             "value": "5496.9215267",
-            "uncertainty": null,
-            "unit": "0.000 0050"
+            "uncertainty": "0.0000050",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "5496.92153588",
-            "uncertainty": null,
-            "unit": "0.000 000 26"
+            "uncertainty": "0.00000026",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "5496.92153573",
-            "uncertainty": null,
-            "unit": "0.000 000 27"
+            "uncertainty": "0.00000027",
+            "unit": null
         }
     ],
     "triton-neutron magnetic moment ratio": [
@@ -10679,20 +10679,20 @@
         {
             "year": "2010",
             "value": "2.9937170308",
-            "uncertainty": null,
-            "unit": "0.000 000 0025"
+            "uncertainty": "0.0000000025",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.99371703348",
-            "uncertainty": null,
-            "unit": "0.000 000 000 22"
+            "uncertainty": "0.00000000022",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.99371703414",
-            "uncertainty": null,
-            "unit": "0.000 000 000 15"
+            "uncertainty": "0.00000000015",
+            "unit": null
         }
     ],
     "Wien frequency displacement law constant": [
@@ -10879,20 +10879,20 @@
         {
             "year": "2010",
             "value": "-4.664345537e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 039 e-4"
+            "uncertainty": "0.000000039e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-4.664345535e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 026 e-4"
+            "uncertainty": "0.000000026e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-4.664345551e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 012 e-4"
+            "uncertainty": "0.000000012e-4",
+            "unit": null
         }
     ],
     "deuteron mag. mom.": [
@@ -10919,100 +10919,100 @@
         {
             "year": "2010",
             "value": "0.4669754556e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0039 e-3"
+            "uncertainty": "0.0000000039e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.4669754554e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0026 e-3"
+            "uncertainty": "0.0000000026e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "4.669754570e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 012 e-4"
+            "uncertainty": "0.000000012e-4",
+            "unit": null
         }
     ],
     "deuteron mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "0.8574382308",
-            "uncertainty": null,
-            "unit": "0.000 000 0072"
+            "uncertainty": "0.0000000072",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.8574382311",
-            "uncertainty": null,
-            "unit": "0.000 000 0048"
+            "uncertainty": "0.0000000048",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.8574382338",
-            "uncertainty": null,
-            "unit": "0.000 000 0022"
+            "uncertainty": "0.0000000022",
+            "unit": null
         }
     ],
     "deuteron-neutron mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-0.44820652",
-            "uncertainty": null,
-            "unit": "0.000 000 11"
+            "uncertainty": "0.00000011",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-0.44820652",
-            "uncertainty": null,
-            "unit": "0.000 000 11"
+            "uncertainty": "0.00000011",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-0.44820653",
-            "uncertainty": null,
-            "unit": "0.000 000 11"
+            "uncertainty": "0.00000011",
+            "unit": null
         }
     ],
     "deuteron-proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "0.3070122070",
-            "uncertainty": null,
-            "unit": "0.000 000 0024"
+            "uncertainty": "0.0000000024",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.3070122077",
-            "uncertainty": null,
-            "unit": "0.000 000 0015"
+            "uncertainty": "0.0000000015",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "0.30701220939",
-            "uncertainty": null,
-            "unit": "0.000 000 000 79"
+            "uncertainty": "0.00000000079",
+            "unit": null
         }
     ],
     "electron-deuteron mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-2143.923498",
-            "uncertainty": null,
-            "unit": "0.000 018"
+            "uncertainty": "0.000018",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-2143.923499",
-            "uncertainty": null,
-            "unit": "0.000 012"
+            "uncertainty": "0.000012",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-2143.9234915",
-            "uncertainty": null,
-            "unit": "0.000 0056"
+            "uncertainty": "0.0000056",
+            "unit": null
         }
     ],
     "electron gyromag. ratio": [
@@ -11053,20 +11053,20 @@
         {
             "year": "2010",
             "value": "1.8195430761e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0017 e-4"
+            "uncertainty": "0.0000000017e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.819543074854e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 088 e-4"
+            "uncertainty": "0.000000000088e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.819543074573e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 079 e-4"
+            "uncertainty": "0.000000000079e-4",
+            "unit": null
         }
     ],
     "electron mag. mom.": [
@@ -11093,180 +11093,180 @@
         {
             "year": "2010",
             "value": "1.15965218076e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 000 27 e-3"
+            "uncertainty": "0.00000000027e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.15965218091e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 000 26 e-3"
+            "uncertainty": "0.00000000026e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.15965218128e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 000 18 e-3"
+            "uncertainty": "0.00000000018e-3",
+            "unit": null
         }
     ],
     "electron mag. mom. to Bohr magneton ratio": [
         {
             "year": "2010",
             "value": "-1.00115965218076",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 27"
+            "uncertainty": "0.00000000000027",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.00115965218091",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 26"
+            "uncertainty": "0.00000000000026",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.00115965218128",
-            "uncertainty": null,
-            "unit": "0.000 000 000 000 18"
+            "uncertainty": "0.00000000000018",
+            "unit": null
         }
     ],
     "electron mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "-1838.28197090",
-            "uncertainty": null,
-            "unit": "0.000 000 75"
+            "uncertainty": "0.00000075",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1838.28197234",
-            "uncertainty": null,
-            "unit": "0.000 000 17"
+            "uncertainty": "0.00000017",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1838.28197188",
-            "uncertainty": null,
-            "unit": "0.000 000 11"
+            "uncertainty": "0.00000011",
+            "unit": null
         }
     ],
     "electron-muon mag. mom. ratio": [
         {
             "year": "2010",
             "value": "206.7669896",
-            "uncertainty": null,
-            "unit": "0.000 0052"
+            "uncertainty": "0.0000052",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "206.7669880",
-            "uncertainty": null,
-            "unit": "0.000 0046"
+            "uncertainty": "0.0000046",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "206.7669883",
-            "uncertainty": null,
-            "unit": "0.000 0046"
+            "uncertainty": "0.0000046",
+            "unit": null
         }
     ],
     "electron-neutron mag. mom. ratio": [
         {
             "year": "2010",
             "value": "960.92050",
-            "uncertainty": null,
-            "unit": "0.000 23"
+            "uncertainty": "0.00023",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "960.92050",
-            "uncertainty": null,
-            "unit": "0.000 23"
+            "uncertainty": "0.00023",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "960.92050",
-            "uncertainty": null,
-            "unit": "0.000 23"
+            "uncertainty": "0.00023",
+            "unit": null
         }
     ],
     "electron-proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-658.2106848",
-            "uncertainty": null,
-            "unit": "0.000 0054"
+            "uncertainty": "0.0000054",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-658.2106866",
-            "uncertainty": null,
-            "unit": "0.000 0020"
+            "uncertainty": "0.0000020",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-658.21068789",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         }
     ],
     "electron to shielded helion mag. mom. ratio": [
         {
             "year": "2010",
             "value": "864.058257",
-            "uncertainty": null,
-            "unit": "0.000 010"
+            "uncertainty": "0.000010",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "864.058257",
-            "uncertainty": null,
-            "unit": "0.000 010"
+            "uncertainty": "0.000010",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "864.058257",
-            "uncertainty": null,
-            "unit": "0.000 010"
+            "uncertainty": "0.000010",
+            "unit": null
         }
     ],
     "electron to shielded proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-658.2275971",
-            "uncertainty": null,
-            "unit": "0.000 0072"
+            "uncertainty": "0.0000072",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-658.2275971",
-            "uncertainty": null,
-            "unit": "0.000 0072"
+            "uncertainty": "0.0000072",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-658.2275971",
-            "uncertainty": null,
-            "unit": "0.000 0072"
+            "uncertainty": "0.0000072",
+            "unit": null
         }
     ],
     "electron-triton mass ratio": [
         {
             "year": "2010",
             "value": "1.8192000653e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 0017 e-4"
+            "uncertainty": "0.0000000017e-4",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.819200062203e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 084 e-4"
+            "uncertainty": "0.000000000084e-4",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.819200062251e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 090 e-4"
+            "uncertainty": "0.000000000090e-4",
+            "unit": null
         }
     ],
     "elementary charge": [
@@ -11313,20 +11313,20 @@
         {
             "year": "2010",
             "value": "-4.255250613",
-            "uncertainty": null,
-            "unit": "0.000 000 050"
+            "uncertainty": "0.000000050",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-4.255250616",
-            "uncertainty": null,
-            "unit": "0.000 000 050"
+            "uncertainty": "0.000000050",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-4.255250615",
-            "uncertainty": null,
-            "unit": "0.000 000 050"
+            "uncertainty": "0.000000050",
+            "unit": null
         }
     ],
     "helion mag. mom.": [
@@ -11353,40 +11353,40 @@
         {
             "year": "2010",
             "value": "-1.158740958e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.158740958e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.158740958e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         }
     ],
     "helion mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "-2.127625306",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-2.127625308",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-2.127625307",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         }
     ],
     "Loschmidt constant (273.15 K, 100 kPa)": [
@@ -11467,80 +11467,80 @@
         {
             "year": "2010",
             "value": "1.16592091e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 63 e-3"
+            "uncertainty": "0.00000063e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.16592089e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 63 e-3"
+            "uncertainty": "0.00000063e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.16592089e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 63 e-3"
+            "uncertainty": "0.00000063e-3",
+            "unit": null
         }
     ],
     "muon mag. mom. to Bohr magneton ratio": [
         {
             "year": "2010",
             "value": "-4.84197044e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 12 e-3"
+            "uncertainty": "0.00000012e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-4.84197048e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 11 e-3"
+            "uncertainty": "0.00000011e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-4.84197047e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 11 e-3"
+            "uncertainty": "0.00000011e-3",
+            "unit": null
         }
     ],
     "muon mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "-8.89059697",
-            "uncertainty": null,
-            "unit": "0.000 000 22"
+            "uncertainty": "0.00000022",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-8.89059705",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-8.89059703",
-            "uncertainty": null,
-            "unit": "0.000 000 20"
+            "uncertainty": "0.00000020",
+            "unit": null
         }
     ],
     "muon-proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-3.183345107",
-            "uncertainty": null,
-            "unit": "0.000 000 084"
+            "uncertainty": "0.000000084",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-3.183345142",
-            "uncertainty": null,
-            "unit": "0.000 000 071"
+            "uncertainty": "0.000000071",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-3.183345142",
-            "uncertainty": null,
-            "unit": "0.000 000 071"
+            "uncertainty": "0.000000071",
+            "unit": null
         }
     ],
     "natural unit of mom.um": [
@@ -11575,20 +11575,20 @@
         {
             "year": "2010",
             "value": "1.04066882e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.04066882e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.04066882e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         }
     ],
     "neutron gyromag. ratio": [
@@ -11649,74 +11649,74 @@
         {
             "year": "2010",
             "value": "-1.04187563e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.04187563e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.04187563e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 25 e-3"
+            "uncertainty": "0.00000025e-3",
+            "unit": null
         }
     ],
     "neutron mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "-1.91304272",
-            "uncertainty": null,
-            "unit": "0.000 000 45"
+            "uncertainty": "0.00000045",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.91304273",
-            "uncertainty": null,
-            "unit": "0.000 000 45"
+            "uncertainty": "0.00000045",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.91304273",
-            "uncertainty": null,
-            "unit": "0.000 000 45"
+            "uncertainty": "0.00000045",
+            "unit": null
         }
     ],
     "neutron-proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-0.68497934",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-0.68497934",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-0.68497934",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         }
     ],
     "neutron-proton mass difference": [
         {
             "year": "2010",
             "value": "2.30557392e-30",
-            "uncertainty": null,
-            "unit": "0.000 000 76 e-30"
+            "uncertainty": "0.00000076e-30",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.30557377e-30",
-            "uncertainty": null,
-            "unit": "0.000 000 85 e-30"
+            "uncertainty": "0.00000085e-30",
+            "unit": null
         },
         {
             "year": "2018",
@@ -11729,14 +11729,14 @@
         {
             "year": "2010",
             "value": "2.07214650e-13",
-            "uncertainty": null,
-            "unit": "0.000 000 68 e-13"
+            "uncertainty": "0.00000068e-13",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.07214637e-13",
-            "uncertainty": null,
-            "unit": "0.000 000 76 e-13"
+            "uncertainty": "0.00000076e-13",
+            "unit": null
         },
         {
             "year": "2018",
@@ -11749,14 +11749,14 @@
         {
             "year": "2010",
             "value": "1.29333217",
-            "uncertainty": null,
-            "unit": "0.000 000 42"
+            "uncertainty": "0.00000042",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.29333205",
-            "uncertainty": null,
-            "unit": "0.000 000 48"
+            "uncertainty": "0.00000048",
+            "unit": null
         },
         {
             "year": "2018",
@@ -11769,14 +11769,14 @@
         {
             "year": "2010",
             "value": "0.00138844919",
-            "uncertainty": null,
-            "unit": "0.000 000 000 45"
+            "uncertainty": "0.00000000045",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "0.00138844900",
-            "uncertainty": null,
-            "unit": "0.000 000 000 51"
+            "uncertainty": "0.00000000051",
+            "unit": null
         },
         {
             "year": "2018",
@@ -11789,20 +11789,20 @@
         {
             "year": "2010",
             "value": "-0.68499694",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-0.68499694",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-0.68499694",
-            "uncertainty": null,
-            "unit": "0.000 000 16"
+            "uncertainty": "0.00000016",
+            "unit": null
         }
     ],
     "proton gyromag. ratio": [
@@ -11863,120 +11863,120 @@
         {
             "year": "2010",
             "value": "1.521032210e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 012 e-3"
+            "uncertainty": "0.000000012e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.5210322053e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0046 e-3"
+            "uncertainty": "0.0000000046e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.52103220230e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 000 46 e-3"
+            "uncertainty": "0.00000000046e-3",
+            "unit": null
         }
     ],
     "proton mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "2.792847356",
-            "uncertainty": null,
-            "unit": "0.000 000 023"
+            "uncertainty": "0.000000023",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.7928473508",
-            "uncertainty": null,
-            "unit": "0.000 000 0085"
+            "uncertainty": "0.0000000085",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.79284734463",
-            "uncertainty": null,
-            "unit": "0.000 000 000 82"
+            "uncertainty": "0.00000000082",
+            "unit": null
         }
     ],
     "proton mag. shielding correction": [
         {
             "year": "2010",
             "value": "25.694e-6",
-            "uncertainty": null,
-            "unit": "0.014 e-6"
+            "uncertainty": "0.014e-6",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "25.691e-6",
-            "uncertainty": null,
-            "unit": "0.011 e-6"
+            "uncertainty": "0.011e-6",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.5689e-5",
-            "uncertainty": null,
-            "unit": "0.0011 e-5"
+            "uncertainty": "0.0011e-5",
+            "unit": null
         }
     ],
     "proton-neutron mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-1.45989806",
-            "uncertainty": null,
-            "unit": "0.000 000 34"
+            "uncertainty": "0.00000034",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.45989805",
-            "uncertainty": null,
-            "unit": "0.000 000 34"
+            "uncertainty": "0.00000034",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.45989805",
-            "uncertainty": null,
-            "unit": "0.000 000 34"
+            "uncertainty": "0.00000034",
+            "unit": null
         }
     ],
     "Sackur-Tetrode constant (1 K, 100 kPa)": [
         {
             "year": "2010",
             "value": "-1.1517078",
-            "uncertainty": null,
-            "unit": "0.000 0023"
+            "uncertainty": "0.0000023",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.1517084",
-            "uncertainty": null,
-            "unit": "0.000 0014"
+            "uncertainty": "0.0000014",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.15170753706",
-            "uncertainty": null,
-            "unit": "0.000 000 000 45"
+            "uncertainty": "0.00000000045",
+            "unit": null
         }
     ],
     "Sackur-Tetrode constant (1 K, 101.325 kPa)": [
         {
             "year": "2010",
             "value": "-1.1648708",
-            "uncertainty": null,
-            "unit": "0.000 0023"
+            "uncertainty": "0.0000023",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.1648714",
-            "uncertainty": null,
-            "unit": "0.000 0014"
+            "uncertainty": "0.0000014",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.16487052358",
-            "uncertainty": null,
-            "unit": "0.000 000 000 45"
+            "uncertainty": "0.00000000045",
+            "unit": null
         }
     ],
     "shielded helion gyromag. ratio": [
@@ -12037,80 +12037,80 @@
         {
             "year": "2010",
             "value": "-1.158671471e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-1.158671471e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-1.158671471e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 014 e-3"
+            "uncertainty": "0.000000014e-3",
+            "unit": null
         }
     ],
     "shielded helion mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "-2.127497718",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-2.127497720",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-2.127497719",
-            "uncertainty": null,
-            "unit": "0.000 000 025"
+            "uncertainty": "0.000000025",
+            "unit": null
         }
     ],
     "shielded helion to proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-0.761766558",
-            "uncertainty": null,
-            "unit": "0.000 000 011"
+            "uncertainty": "0.000000011",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-0.7617665603",
-            "uncertainty": null,
-            "unit": "0.000 000 0092"
+            "uncertainty": "0.0000000092",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-0.7617665618",
-            "uncertainty": null,
-            "unit": "0.000 000 0089"
+            "uncertainty": "0.0000000089",
+            "unit": null
         }
     ],
     "shielded helion to shielded proton mag. mom. ratio": [
         {
             "year": "2010",
             "value": "-0.7617861313",
-            "uncertainty": null,
-            "unit": "0.000 000 0033"
+            "uncertainty": "0.0000000033",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "-0.7617861313",
-            "uncertainty": null,
-            "unit": "0.000 000 0033"
+            "uncertainty": "0.0000000033",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "-0.7617861313",
-            "uncertainty": null,
-            "unit": "0.000 000 0033"
+            "uncertainty": "0.0000000033",
+            "unit": null
         }
     ],
     "shielded proton gyromag. ratio": [
@@ -12171,40 +12171,40 @@
         {
             "year": "2010",
             "value": "1.520993128e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 017 e-3"
+            "uncertainty": "0.000000017e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.520993128e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 017 e-3"
+            "uncertainty": "0.000000017e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.520993128e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 017 e-3"
+            "uncertainty": "0.000000017e-3",
+            "unit": null
         }
     ],
     "shielded proton mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "2.792775598",
-            "uncertainty": null,
-            "unit": "0.000 000 030"
+            "uncertainty": "0.000000030",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.792775600",
-            "uncertainty": null,
-            "unit": "0.000 000 030"
+            "uncertainty": "0.000000030",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.792775599",
-            "uncertainty": null,
-            "unit": "0.000 000 030"
+            "uncertainty": "0.000000030",
+            "unit": null
         }
     ],
     "standard-state pressure": [
@@ -12265,48 +12265,48 @@
         {
             "year": "2010",
             "value": "1.622393657e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 021 e-3"
+            "uncertainty": "0.000000021e-3",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "1.6223936616e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0076 e-3"
+            "uncertainty": "0.0000000076e-3",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "1.6223936651e-3",
-            "uncertainty": null,
-            "unit": "0.000 000 0032 e-3"
+            "uncertainty": "0.0000000032e-3",
+            "unit": null
         }
     ],
     "triton mag. mom. to nuclear magneton ratio": [
         {
             "year": "2010",
             "value": "2.978962448",
-            "uncertainty": null,
-            "unit": "0.000 000 038"
+            "uncertainty": "0.000000038",
+            "unit": null
         },
         {
             "year": "2014",
             "value": "2.978962460",
-            "uncertainty": null,
-            "unit": "0.000 000 014"
+            "uncertainty": "0.000000014",
+            "unit": null
         },
         {
             "year": "2018",
             "value": "2.9789624656",
-            "uncertainty": null,
-            "unit": "0.000 000 0059"
+            "uncertainty": "0.0000000059",
+            "unit": null
         }
     ],
     "alpha particle relative atomic mass": [
         {
             "year": "2018",
             "value": "4.001506179127",
-            "uncertainty": null,
-            "unit": "0.000 000 000 063"
+            "uncertainty": "0.000000000063",
+            "unit": null
         }
     ],
     "Bohr magneton in inverse meter per tesla": [
@@ -12393,8 +12393,8 @@
         {
             "year": "2018",
             "value": "2.013553212745",
-            "uncertainty": null,
-            "unit": "0.000 000 000 040"
+            "uncertainty": "0.000000000040",
+            "unit": null
         }
     ],
     "electron gyromag. ratio in MHz/T": [
@@ -12409,8 +12409,8 @@
         {
             "year": "2018",
             "value": "5.48579909065e-4",
-            "uncertainty": null,
-            "unit": "0.000 000 000 16 e-4"
+            "uncertainty": "0.00000000016e-4",
+            "unit": null
         }
     ],
     "elementary charge over h-bar": [
@@ -12425,16 +12425,16 @@
         {
             "year": "2018",
             "value": "3.014932247175",
-            "uncertainty": null,
-            "unit": "0.000 000 000 097"
+            "uncertainty": "0.000000000097",
+            "unit": null
         }
     ],
     "helion shielding shift": [
         {
             "year": "2018",
             "value": "5.996743e-5",
-            "uncertainty": null,
-            "unit": "0.000 010 e-5"
+            "uncertainty": "0.000010e-5",
+            "unit": null
         }
     ],
     "hyperfine transition frequency of Cs-133": [
@@ -12481,8 +12481,8 @@
         {
             "year": "2018",
             "value": "1.00866491595",
-            "uncertainty": null,
-            "unit": "0.000 000 000 49"
+            "uncertainty": "0.00000000049",
+            "unit": null
         }
     ],
     "nuclear magneton in inverse meter per tesla": [
@@ -12513,8 +12513,8 @@
         {
             "year": "2018",
             "value": "1.007276466621",
-            "uncertainty": null,
-            "unit": "0.000 000 000 053"
+            "uncertainty": "0.000000000053",
+            "unit": null
         }
     ],
     "reduced Compton wavelength": [
@@ -12601,32 +12601,32 @@
         {
             "year": "2018",
             "value": "2.0200e-8",
-            "uncertainty": null,
-            "unit": "0.0020 e-8"
+            "uncertainty": "0.0020e-8",
+            "unit": null
         }
     ],
     "shielding difference of t and p in HT": [
         {
             "year": "2018",
             "value": "2.4140e-8",
-            "uncertainty": null,
-            "unit": "0.0020 e-8"
+            "uncertainty": "0.0020e-8",
+            "unit": null
         }
     ],
     "triton relative atomic mass": [
         {
             "year": "2018",
             "value": "3.01550071621",
-            "uncertainty": null,
-            "unit": "0.000 000 000 12"
+            "uncertainty": "0.00000000012",
+            "unit": null
         }
     ],
     "triton to proton mag. mom. ratio": [
         {
             "year": "2018",
             "value": "1.0666399191",
-            "uncertainty": null,
-            "unit": "0.000 000 0021"
+            "uncertainty": "0.0000000021",
+            "unit": null
         }
     ],
     "vacuum electric permittivity": [
@@ -12649,8 +12649,8 @@
         {
             "year": "2018",
             "value": "0.88153",
-            "uncertainty": null,
-            "unit": "0.000 17"
+            "uncertainty": "0.00017",
+            "unit": null
         }
     ]
 }
