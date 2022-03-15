@@ -14,11 +14,14 @@ lastyear = max(years)
 firstyear = min(years)
 rng = lastyear - firstyear
 
-data = defaultdict(list)
+def cleanValue(value):
+	"""Removes superfluous spaces and ellipses from values"""
+	return value.strip().replace(" ", "").replace("...", "")
 
 def splitUncertainty(value):
+	"""Splits a constant that may contain parentheses uncertainty notation into its value and uncertainty value"""
 
-	value = value.replace(" ", "")
+	value = cleanValue(value)
 
 	purevalue = re.sub(r"\(.*?\)", "", value)
 	rematch = re.search(r"\((.*?)\)", value)
@@ -33,7 +36,12 @@ def splitUncertainty(value):
 
 	return purevalue, pureuncertainty
 
+# {<name:str>: [<year:str>, <value:str>, <uncertainty:str/None>, <unit:str/None>]}
+data = defaultdict(list)
+
+# Iterate over all files and collect year-tagged datapoints in a list for each constant
 for path in paths:
+
 	year = int(path.split(".")[0].split("_")[-1])
 
 	with open(path) as f:
@@ -63,13 +71,11 @@ for path in paths:
 		else:
 			print(line)
 		
-		value = value.replace(" ", "")
+		value = cleanValue(value)
 		if uncertainty:
-			uncertainty = uncertainty.replace(" ", "")
+			uncertainty = cleanValue(uncertainty)
 		
 		data[name].append([str(year), value, uncertainty, unit])
-	
-	#print(rows)
 
 testkey = "electron mass"
 print(testkey)
@@ -77,6 +83,7 @@ for year in data[testkey]:
 	print("\t\t".join(year))
 
 def isfloat(v):
+	"""Returns True if the given value can be converted to a floating point number"""
 	try:
 		float(v)
 		return True
@@ -87,26 +94,28 @@ def isfloat(v):
 for name, years in data.items():
 	if len(years) == 6 and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
 		
+		# Skip some redundant or uninteresting constants
 		if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
 			continue
 		
-		#for year in years:
-		#	print("%.2f" % log(float(years[0][2])/float(year[2]), 10))
-		
+		# Collect x and y values for the plot
 		xs = []
 		ys = []
 		for year in years:
 			xs.append(int(year[0]))
 			ys.append(log(float(years[0][2])/float(year[2]), 10))
 		
+		# Plot the constants' line
 		plt.plot(xs, ys, label=name)
 		
+		# Additionally, print some information
 		decimaldigits = log(float(years[0][2])/float(years[-1][2]), 10)
 		if decimaldigits == 0:
 			continue
 		print(name)
-		print("%.2f digits" % decimaldigits, "%.2f y/dgt" % (rng/decimaldigits))
+		print("%.2f digits" % decimaldigits, "%.2f years/digit" % (rng/decimaldigits))
 
+# Finish, save and show the plot
 plt.title(f"number of decimal digits improved compared to first year ({firstyear}-{lastyear})")
 plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 #plt.tight_layout()
