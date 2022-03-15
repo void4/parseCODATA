@@ -17,6 +17,15 @@ lastyear = max(allyears)
 firstyear = min(allyears)
 rng = lastyear - firstyear
 
+def isfloat(v):
+	"""Returns True if the given value can be converted to a floating point number"""
+	try:
+		float(v)
+		return True
+	except ValueError:
+		pass
+	return False
+
 def cleanValue(value):
 	"""Removes superfluous spaces and ellipses from values"""
 	return value.strip().replace(" ", "").replace("...", "")
@@ -79,7 +88,7 @@ for path in paths:
 			unit = None
 			value, uncertainty = splitUncertainty(value)
 		elif len(line) == 3:
-			if "(" in line[1]:
+			if "(" in line[1] or not isfloat(cleanValue(line[2])):
 				# Old format containing the uncertainty as parentheses notation in the value
 				name, value, unit = line
 				value, uncertainty = splitUncertainty(value)
@@ -106,15 +115,6 @@ testkey = "electron mass"
 print(testkey)
 for year in data[testkey]:
 	print("\t\t".join(year))
-
-def isfloat(v):
-	"""Returns True if the given value can be converted to a floating point number"""
-	try:
-		float(v)
-		return True
-	except ValueError:
-		pass
-	return False
 
 dpi = 96
 fig = plt.figure(figsize=(1920/dpi, 1080/dpi), dpi=dpi)

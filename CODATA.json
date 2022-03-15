@@ -1253,20 +1253,20 @@
         {
             "year": "1998",
             "value": "1.112650056e-10",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2002",
             "value": "1.112650056e-10",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2006",
             "value": "1.112650056e-10",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2010",
@@ -1773,20 +1773,20 @@
         {
             "year": "1998",
             "value": "376.730313461",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2002",
             "value": "376.730313461",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2006",
             "value": "376.730313461",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2010",
@@ -1957,20 +1957,20 @@
         {
             "year": "1998",
             "value": "483597900000000.0",
-            "uncertainty": "GHzV^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "GHz V^{-1}"
         },
         {
             "year": "2002",
             "value": "483597.9e9",
-            "uncertainty": "HzV^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Hz V^{-1}"
         },
         {
             "year": "2006",
             "value": "483597.9e9",
-            "uncertainty": "HzV^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Hz V^{-1}"
         },
         {
             "year": "2010",
@@ -1995,20 +1995,20 @@
         {
             "year": "1998",
             "value": "25812.807",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2002",
             "value": "25812.807",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2006",
             "value": "25812.807",
-            "uncertainty": "Ohm",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Ohm"
         },
         {
             "year": "2010",
@@ -2451,20 +2451,20 @@
         {
             "year": "1998",
             "value": "8.854187817e-12",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2002",
             "value": "8.854187817e-12",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2006",
             "value": "8.854187817e-12",
-            "uncertainty": "Fm^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "F m^{-1}"
         },
         {
             "year": "2010",
@@ -4479,20 +4479,20 @@
         {
             "year": "1998",
             "value": "3.335640952e-9",
-            "uncertainty": "m^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m^{-1}"
         },
         {
             "year": "2002",
             "value": "3.335640951e-9",
-            "uncertainty": "m^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m^{-1}"
         },
         {
             "year": "2006",
             "value": "3.335640951e-9",
-            "uncertainty": "m^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m^{-1}"
         },
         {
             "year": "2010",
@@ -4783,20 +4783,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": "Hz",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Hz"
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": "Hz",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Hz"
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": "Hz",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Hz"
         },
         {
             "year": "2010",
@@ -5239,20 +5239,20 @@
         {
             "year": "1998",
             "value": "1.112650056e-17",
-            "uncertainty": "kg",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg"
         },
         {
             "year": "2002",
             "value": "1.112650056e-17",
-            "uncertainty": "kg",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg"
         },
         {
             "year": "2006",
             "value": "1.112650056e-17",
-            "uncertainty": "kg",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg"
         },
         {
             "year": "2010",
@@ -5733,20 +5733,20 @@
         {
             "year": "1998",
             "value": "8.987551787e16",
-            "uncertainty": "J",
-            "unit": null
+            "uncertainty": null,
+            "unit": "J"
         },
         {
             "year": "2002",
             "value": "8.987551787e16",
-            "uncertainty": "J",
-            "unit": null
+            "uncertainty": null,
+            "unit": "J"
         },
         {
             "year": "2006",
             "value": "8.987551787e16",
-            "uncertainty": "J",
-            "unit": null
+            "uncertainty": null,
+            "unit": "J"
         },
         {
             "year": "2010",
@@ -5905,20 +5905,20 @@
         {
             "year": "1998",
             "value": "1256637.061435917",
-            "uncertainty": "NA^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "N A^{-2}"
         },
         {
             "year": "2002",
             "value": "12.566370614e-7",
-            "uncertainty": "NA^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "N A^{-2}"
         },
         {
             "year": "2006",
             "value": "12.566370614e-7",
-            "uncertainty": "NA^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "N A^{-2}"
         }
     ],
     "magnetic flux quantum": [
@@ -6085,20 +6085,20 @@
         {
             "year": "1998",
             "value": "1e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2002",
             "value": "1e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2006",
             "value": "1e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2010",
@@ -6123,20 +6123,20 @@
         {
             "year": "1998",
             "value": "12e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2002",
             "value": "12e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2006",
             "value": "12e-3",
-            "uncertainty": "kgmol^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "kg mol^{-1}"
         },
         {
             "year": "2010",
@@ -7143,20 +7143,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2010",
@@ -9473,20 +9473,20 @@
         {
             "year": "1998",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2002",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2006",
             "value": "299792458",
-            "uncertainty": "ms^{-1}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-1}"
         },
         {
             "year": "2010",
@@ -9511,20 +9511,20 @@
         {
             "year": "1998",
             "value": "9.80665",
-            "uncertainty": "ms^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-2}"
         },
         {
             "year": "2002",
             "value": "9.80665",
-            "uncertainty": "ms^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-2}"
         },
         {
             "year": "2006",
             "value": "9.80665",
-            "uncertainty": "ms^{-2}",
-            "unit": null
+            "uncertainty": null,
+            "unit": "m s^{-2}"
         },
         {
             "year": "2010",
@@ -9549,20 +9549,20 @@
         {
             "year": "1998",
             "value": "101325",
-            "uncertainty": "Pa",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Pa"
         },
         {
             "year": "2002",
             "value": "101325",
-            "uncertainty": "Pa",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Pa"
         },
         {
             "year": "2006",
             "value": "101325",
-            "uncertainty": "Pa",
-            "unit": null
+            "uncertainty": null,
+            "unit": "Pa"
         },
         {
             "year": "2010",
