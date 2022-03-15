@@ -115,8 +115,8 @@ for name, years in data.items():
 	if len(years) == len(allyears) and all([year[2] is not None and isfloat(year[2]) and float(year[2]) != 0 for year in years]):
 		
 		# Skip some redundant or uninteresting constants
-		if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
-			continue
+		#if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
+		#	continue
 		
 		# Collect x and y values for the plot
 		xs = []
@@ -142,6 +142,7 @@ plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 box = ax.get_position()
 ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
 #plt.tight_layout()
+plt.xticks(allyears)
 plt.savefig("plot.png")
 plt.show()
 
