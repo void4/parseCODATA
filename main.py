@@ -125,8 +125,8 @@ for name, years in data.items():
 	if len(years) == len(allyears) and all([year["uncertainty"] is not None and isfloat(year["uncertainty"]) and float(year["uncertainty"]) != 0 for year in years]):
 		
 		# Skip some redundant or uninteresting constants
-		#if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name:
-		#	continue
+		if " in " in name or " relationship" in name or " equivalent" in name or "atomic unit" in name or "molar " in name or " ratio" in name:
+			continue
 		
 		# Collect x and y values for the plot
 		xs = []
@@ -147,7 +147,7 @@ for name, years in data.items():
 		print("%.2f digits" % decimaldigits, "%.2f years/digit" % (rng/decimaldigits))
 
 # Finish, save and show the plot
-plt.title(f"number of decimal digits improved compared to first year ({firstyear}-{lastyear})")
+plt.title(f"improved measurement accuracy compared to first year in (fractional) number of digits ({firstyear}-{lastyear})")
 plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 box = ax.get_position()
 ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
