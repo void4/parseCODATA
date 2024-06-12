@@ -147,7 +147,7 @@ for name, years in data.items():
 		print("%.2f digits" % decimaldigits, "%.2f years/digit" % (rng/decimaldigits))
 
 # Finish, save and show the plot
-plt.title(f"improved measurement accuracy compared to first year in (fractional) number of digits ({firstyear}-{lastyear})")
+plt.title(f"Improved measurement accuracy of fundamental physical constants compared to first year in (fractional) number of digits ({firstyear}-{lastyear})")
 plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
 box = ax.get_position()
 ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
